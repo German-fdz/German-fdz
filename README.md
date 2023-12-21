@@ -24,9 +24,9 @@ Soy una persona proactiva, organizada y responsable. Como programador e ingenier
 - Whatsapp: +5358489504
 
 ## 📊 Estadísticas de GitHub
-- Número de repositorios: 18
+- Número de repositorios: 22
 - Número de seguidores: 2
-- Número de contribuciones
+
 
 ## 💬 Comunidad
 - Contribuciones a código abierto
