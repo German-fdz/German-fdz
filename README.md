@@ -1,5 +1,5 @@
 ## 📝 Biografía
-Tu biografía aquí. ¡Mantenlo corto y enfocado!
+Soy una persona proactiva, organizada y responsable. Como programador e ingeniero de software, me enfoco en crear soluciones eficientes y elegantes centradas en el usuario y la calidad del producto final. Trabajo en equipo y fomento la retroalimentación constructiva. Documentar todas mis acciones asi como mi trabajo que estoy desarrollando y siempre me mantengo actualizado con las últimas tendencias y tecnologías.
 
 ## 🚀 Proyectos
 - [Proyecto 1](https://your-project-1-url.com)
@@ -12,19 +12,21 @@ Tu biografía aquí. ¡Mantenlo corto y enfocado!
 - [Repositorio 3](https://github.com/your_username/repository3)
 
 ## 🔧 Habilidades Principales
-- Habilidad 1
-- Habilidad 2
-- Habilidad 3
+- Aprendizaje muy rápido
+- Capacidad de trabajo en equipo
+- Mente abierta
+- Resolución de problemas 
+- Capacidad de adaptación
+
 
 ## 💬 Contacto
 - Correo electrónico: gerfdz07@gmail.com
-- Sitio web: tu-sitio-web.com
 - Whatsapp: +5358489504
 
 ## 📊 Estadísticas de GitHub
-- Número de repositorios: 18
+- Número de repositorios: 22
 - Número de seguidores: 2
-- Número de contribuciones
+
 
 ## 💬 Comunidad
 - Contribuciones a código abierto
