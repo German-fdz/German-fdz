@@ -15,21 +15,22 @@ Soy una persona proactiva, organizada y responsable. Como programador e ingenier
 - Capacidad de adaptación
 
 ## 💻💼👨‍💻 Tecnologias  
-- # Frontend
+- ### Frontend
 - Angular
-- # Backend
+- ### Backend
 - NestJS
 - Spring Boot
-- # Extra
+- ### Extra
 - MongoDB
 - MySql
-- # Arquitectura
+- Flutter
+- Android native (Java y Kotlin)
+- ### Arquitectura
 - Microservicios
 - Hexagonal
 - Arquitectura limpia
 - MVC
-- Flutter
-- Android native (Java y Kotlin)
+
 
 ## 💬 Contacto
 - Correo electrónico: gerfdz07@gmail.com
