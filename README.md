@@ -3,13 +3,9 @@ Soy una persona proactiva, organizada y responsable. Como programador e ingenier
 
 ## 🚀 Proyectos
 - [Proyecto 1](https://your-project-1-url.com)
-- [Proyecto 2](https://your-project-2-url.com)
-- [Proyecto 3](https://your-project-3-url.com)
 
 ## 💻 Repositorios
 - [Repositorio 1](https://github.com/your_username/repository1)
-- [Repositorio 2](https://github.com/your_username/repository2)
-- [Repositorio 3](https://github.com/your_username/repository3)
 
 ## 🔧 Habilidades Principales
 - Aprendizaje muy rápido
@@ -18,6 +14,22 @@ Soy una persona proactiva, organizada y responsable. Como programador e ingenier
 - Resolución de problemas 
 - Capacidad de adaptación
 
+## 💻💼👨‍💻 Tecnologias  
+- # Frontend
+- Angular
+- # Backend
+- NestJS
+- Spring Boot
+- # Extra
+- MongoDB
+- MySql
+- # Arquitectura
+- Microservicios
+- Hexagonal
+- Arquitectura limpia
+- MVC
+- Flutter
+- Android native (Java y Kotlin)
 
 ## 💬 Contacto
 - Correo electrónico: gerfdz07@gmail.com
