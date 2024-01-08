@@ -33,6 +33,7 @@ Soy una persona proactiva, organizada y responsable. Como programador e ingenier
 ## 📊 Estadísticas de GitHub
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=German-fdz&show_icons=true&locale=en&layout=compact" alt="German-fdz" /></p>
 
+
 ## 💬 Comunidad
 - [Contribuciones a código abierto](https://github.com/CuCodersCommunity)
 
