@@ -9,12 +9,7 @@ Soy una persona proactiva, organizada y responsable. Como programador e ingenier
 ## 💻 Repositorios
 - [Repositorio 1](https://github.com/your_username/repository1)
 
-## 🔧 Habilidades Principales
-- Aprendizaje muy rápido
-- Capacidad de trabajo en equipo
-- Mente abierta
-- Resolución de problemas 
-- Capacidad de adaptación
+
 
 ## 💻💼👨‍💻 Tecnologias  
 <p align="left"> 
@@ -30,12 +25,12 @@ Soy una persona proactiva, organizada y responsable. Como programador e ingenier
   </p>
 
 ## 📊 Estadísticas de GitHub
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=German-fdz&show_icons=true&locale=en&layout=compact" alt="German-fdz" /></p>
+<p align="center">
+<a href="https://github.com/German-fdz">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=German-fdz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=German-fdz&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
-## 💬 Comunidad
-- [Contribuciones a código abierto](https://github.com/CuCodersCommunity)
 
-
-## 💡 Otra información
-- Otros datos interesantes o información sobre ti.
