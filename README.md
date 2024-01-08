@@ -44,8 +44,8 @@ Soy una persona proactiva, organizada y responsable. Como programador e ingenier
 
 
 ## 💬 Comunidad
-- Contribuciones a código abierto
-- Membresías en organizaciones
+- [Contribuciones a código abierto](https://github.com/CuCodersCommunity)
+
 
 ## 💡 Otra información
 - Otros datos interesantes o información sobre ti.
