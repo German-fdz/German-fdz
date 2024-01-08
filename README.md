@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Germán Fernández Herrera</h1>
 ## 📝 Biografía
 Soy una persona proactiva, organizada y responsable. Como programador e ingeniero de software, me enfoco en crear soluciones eficientes y elegantes centradas en el usuario y la calidad del producto final. Trabajo en equipo y fomento la retroalimentación constructiva. Documentar todas mis acciones asi como mi trabajo que estoy desarrollando y siempre me mantengo actualizado con las últimas tendencias y tecnologías.
 
@@ -37,6 +38,7 @@ Soy una persona proactiva, organizada y responsable. Como programador e ingenier
 - Whatsapp: +5358489504
 
 ## 📊 Estadísticas de GitHub
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=german-fdz&show_icons=true&locale=en&layout=compact" alt="german-fdz" /></p>
 - Número de repositorios: 22
 - Número de seguidores: 2
 
