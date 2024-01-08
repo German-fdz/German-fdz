@@ -38,7 +38,7 @@ Soy una persona proactiva, organizada y responsable. Como programador e ingenier
 - Whatsapp: +5358489504
 
 ## 📊 Estadísticas de GitHub
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=german-fdz&show_icons=true&locale=en&layout=compact" alt="german-fdz" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=German-fdz&show_icons=true&locale=en&layout=compact" alt="German-fdz" /></p>
 - Número de repositorios: 22
 - Número de seguidores: 2
 
