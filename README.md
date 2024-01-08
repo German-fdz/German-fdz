@@ -30,12 +30,6 @@ Soy una persona proactiva, organizada y responsable. Como programador e ingenier
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
   </p>
 
-
-
-## 💬 Contacto
-- Correo electrónico: gerfdz07@gmail.com
-- Whatsapp: +5358489504
-
 ## 📊 Estadísticas de GitHub
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=German-fdz&show_icons=true&locale=en&layout=compact" alt="German-fdz" /></p>
 
